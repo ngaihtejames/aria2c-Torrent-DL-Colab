@@ -23,7 +23,7 @@ This notebook uses [aria2c](https://aria2.github.io/) — a lightweight, fast do
 ## ⚙️ How to use
 
 1. **Open in Google Colab:**  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/colab-torrent-downloader/blob/main/Colab_Torrent_Downloader.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngaihtejames/colab-torrent-downloader/blob/main/Colab_Torrent_Downloader.ipynb)
 
 2. **Run each cell in order:**  
    - **Mount Google Drive**  
